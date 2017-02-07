@@ -3,19 +3,19 @@ package com.bjsxt;
 public class Hello {
 
 	public static void main(String[] args) {
-		// Java ÔÚEclipseÖĞµÄ²Ù×÷¼¼ÇÉ
-       //Ctrl+1 ¿ì½İĞŞ¸´
+		// Java åœ¨Eclipseä¸­çš„æ“ä½œæŠ€å·§
+       //Ctrl+1 å¿«æ·ä¿®å¤
 		//int a=100L;
-	   //Ctrl+D ¿ì½İÉ¾³ıĞĞ
-	   //Shift+Enter ¿ìËÙ½øÈëÏÂÒ»ĞĞ
-		// Alt+ÉÏ¼ıÍ·/ÏÂ¼ıÍ·    ¿ìËÙÒÆ¶¯ĞĞ
-	   //Ctrl+Alt+ÉÏ¼ıÍ·/ÏÂ¼ıÍ·   ¿ìËÙ¸´ÖÆĞĞ
-	   //Ctrl+M ·Å´ó¹¤×÷Çø
-	   // Alt+/ ²¹È«´úÂë
-	   // Ctrl+/×¢ÊÍ´úÂë
+	   //Ctrl+D å¿«æ·åˆ é™¤è¡Œ
+	   //Shift+Enter å¿«é€Ÿè¿›å…¥ä¸‹ä¸€è¡Œ
+		// Alt+ä¸Šç®­å¤´/ä¸‹ç®­å¤´    å¿«é€Ÿç§»åŠ¨è¡Œ
+	   //Ctrl+Alt+ä¸Šç®­å¤´/ä¸‹ç®­å¤´   å¿«é€Ÿå¤åˆ¶è¡Œ
+	   //Ctrl+M æ”¾å¤§å·¥ä½œåŒº
+	   // Alt+/ è¡¥å…¨ä»£ç 
+	   // Ctrl+/æ³¨é‡Šä»£ç 
 		
 	  	}
-	// /** +enter Éú³Éjavadoc ÎÄµµ
+	// /** +enter ç”Ÿæˆjavadoc æ–‡æ¡£
 	/**
 	 * 
 	 * @param a
@@ -23,6 +23,6 @@ public class Hello {
 	 * @param c
 	 * @return
 	 */
-	 
+	 System.out.println("Ctrl +1ä¸ºå¿«æ·ä¿®å¤");
 		
 }
