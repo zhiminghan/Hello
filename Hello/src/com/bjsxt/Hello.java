@@ -24,8 +24,5 @@ public class Hello {
 	 * @return
 	 */
 	 
-			public String add(int a,int b,boolean c){
-				return null;
-			}
-
+		
 }
